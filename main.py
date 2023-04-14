@@ -8,22 +8,21 @@ import csv
 found_elements = []
 
 def getAllCompanies():
-    # URL der HTML-Seite
+    # URL of the HTML-page
     url = 'https://www.spectaris.de/medizintechnik/mitglieder/'
     counter = 0
-    # HTML-Seite herunterladen und parsen
+    # download HTML page and parse
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    # Alle <h3>-Elemente in der Seite finden
+    # get all h3 elements in page (i looked at it beforehand to know which element the company title would be)
     h3_elements = soup.find_all('h3')
 
-    # Titel der HTML-Elemente suchen, die innerhalb eines <h3>-Elements gefunden werden
+    # Look for titles within h3
     for h3 in h3_elements:
-        # Alle HTML-Elemente innerhalb des aktuellen <h3>-Elements finden
+        
         elements = h3.find_all()
         
-        # Titel jedes HTML-Elements ausgeben
         for element in elements:
             title = element.get('title')
             if title:
@@ -37,10 +36,12 @@ def getAllCompanies():
 getAllCompanies()
 
 
+#loop through found titles and get websites
 
 for element in found_elements:
    element["website"] = get_company_website(element["name"])
-
+    
+    #create csv
    with open("companies.csv", "w", newline="") as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=element.keys())
     writer.writeheader()
