@@ -1,6 +1,11 @@
 import requests
 import re
 from bs4 import BeautifulSoup
+import os
+
+
+
+
 
 
 def get_company_website(company_name):
@@ -15,3 +20,99 @@ def get_company_website(company_name):
     return website.split(">")[1].split("<")[0]
 
 
+def find_contact_info(website):
+    """
+    Finds contact information on a website.
+    Returns a dictionary with the following keys:
+        - email: the email address listed on the website
+        - phone: the phone number listed on the website
+    If any information cannot be found, the corresponding value in the dictionary is None.
+    """
+    url = website
+    url += '/impressum'
+
+    try:
+
+        response = requests.get(url, timeout=5, verify=False)
+        html = response.text
+        soup = BeautifulSoup(html, "html.parser")
+
+        # Find the email address
+        email = None
+        email_tags = soup.select("a[href^='mailto:']")
+        if email_tags:
+            email = email_tags[0]["href"][7:]
+
+        # Find the phone number
+        phone = None
+        phone_tags = soup.find_all("a", href=True, text=True)
+        for tag in phone_tags:
+            if "tel:" in tag["href"]:
+                phone = tag.text.strip()
+                break
+            elif "phone:" in tag["href"]:
+                phone = tag.text.strip()
+                break
+            elif "Telefon:" in tag["href"]:
+                phone = tag.text.strip()
+                break
+            elif "Telephone:" in tag["href"]:
+                phone = tag.text.strip()
+                break
+            
+        
+        print(email)
+        print(phone)
+        # Return a dictionary with the contact information
+        return {
+            "email": email,
+            "phone": phone,
+        }
+
+    except requests.exceptions.Timeout:
+        pass
+
+
+    url2 = website
+    url2 += "/Kontakt"
+
+    try:
+
+        response = requests.get(url2, timeout=5, verify=False)
+        html = response.text
+        soup = BeautifulSoup(html, "html.parser")
+
+        # Find the email address
+        email = None
+        email_tags = soup.select("a[href^='mailto:']")
+        if email_tags:
+            email = email_tags[0]["href"][7:]
+
+        # Find the phone number
+        phone = None
+        phone_tags = soup.find_all("a", href=True, text=True)
+        for tag in phone_tags:
+            if "tel:" in tag["href"]:
+                phone = tag.text.strip()
+                break
+            elif "phone:" in tag["href"]:
+                phone = tag.text.strip()
+                break
+            elif "Telefon:" in tag["href"]:
+                phone = tag.text.strip()
+                break
+            elif "Telephone:" in tag["href"]:
+                phone = tag.text.strip()
+                break
+            
+        
+        print(email)
+        print(phone)
+        # Return a dictionary with the contact information
+        return {
+            "email": email,
+            "phone": phone,
+        }
+
+    except requests.exceptions.Timeout:
+        pass

@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from getDataForCompany import get_company_website
+from getDataForCompany import find_contact_info
 import csv
 
 
@@ -35,13 +36,12 @@ def getAllCompanies():
 
 getAllCompanies()
 
-
 #loop through found titles and get websites
-
 for element in found_elements:
    element["website"] = get_company_website(element["name"])
+   element["contact"] = find_contact_info(element["website"])
     
-    #create csv
+   #create csv
    with open("companies.csv", "w", newline="") as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=element.keys())
     writer.writeheader()
