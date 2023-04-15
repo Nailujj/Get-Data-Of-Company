@@ -1,1 +1,2 @@
 The script accesses the https://www.spectaris.de/medizintechnik/mitglieder/ page and extracts all the company names. Afterwards it looks up the companies websites and saves all the date for each company. Then it adds all of them to a new csv file
+I later asked chatGPT to name me german medical informatic companeis and saved them in list.csv. I applied the same logic to it as i did to the results from the website
