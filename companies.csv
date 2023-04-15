@@ -1,148 +1,185 @@
 index,name,website,contact
-0,Abbott GmbH,https://www.de.abbott,"{'email': 'info.de@abbott.com', 'phone': None}"
-1,AESCULAP AG,http://www.aesculap.de,"{'email': None, 'phone': None}"
-2,Aesculap Akademie GmbH,https://www.aesculap-akademie.de,"{'email': None, 'phone': None}"
-3,air-be-c Medizintechnik GmbH,https://www.air-be-c.de,"{'email': 'info@air-be-c.de', 'phone': '0365 20 57 18 0'}"
-4,ASANUS Medizintechnik GmbH,https://asanus.de,"{'email': None, 'phone': None}"
-5,ASML Berlin GmbH (ehemals Berliner Glas GmbH),https://www.asml.com,"{'email': None, 'phone': None}"
-6,ATMOS MedizinTechnik GmbH & Co.KG,https://atmosmed.com,"{'email': 'info@atmosmed.de', 'phone': None}"
-7,aXcent medical GmbH,https://www.axcentmedical.com,"{'email': 'info@axcentmedical.com', 'phone': None}"
-8,B.Braun Avitum Saxonia GmbH,https://www.bbraun.ch,"{'email': None, 'phone': None}"
-9,B.Braun Miethke GmbH & Co. KG,https://www.bbraun-miethke.com,"{'email': None, 'phone': None}"
-10,Bauer und Häselbarth-Chirurg GmbH,https://www.bh-chirurg.de,"{'email': 'info@bh-chirurg.de', 'phone': None}"
-11,Bayoomed GmbH,https://www.bayoomed.com,"{'email': 'miriam.schulze@bayoo.net', 'phone': None}"
-12,Belimed GmbH,https://www.belimed.com,"{'email': 'info@belimed.com', 'phone': 'Phone +41 41 449 78 88'}"
-13,Belimed GmbH,https://www.belimed.com,"{'email': 'info@belimed.com', 'phone': 'Phone +41 41 449 78 88'}"
-14,bon Optic Vertriebsgesellschaft mbH,https://www.bon.de,"{'email': 'call@bon.de', 'phone': '0451 / 80 9000'}"
-15,Bosch + Sohn GmbH u. Co. KG Fabrik medizinischer Apparate,https://www.boso.de,"{'email': None, 'phone': '+\xa049\xa0(0)\xa074\xa077\xa092\xa075\xa0-\xa00'}"
-16,Breas Medical GmbH,https://www.breas.com,"{'email': None, 'phone': None}"
-17,Carl Zeiss AG,https://www.zeiss.ch,"{'email': 'do-not-reply@zeiss.com', 'phone': None}"
-18,Carl Zeiss Jena GmbH,https://www.zeiss.ch,"{'email': 'do-not-reply@zeiss.com', 'phone': None}"
-19,Carl Zeiss Meditec AG,https://www.zeiss.ch,"{'email': 'do-not-reply@zeiss.com', 'phone': None}"
-20,Christoph Miethke GmbH & Co. KG,https://www.miethke.com,"{'email': None, 'phone': None}"
-21,Condor GmbH Medicaltechnik,https://condor-medtec.de,"{'email': 'info@condor-medtec.de', 'phone': '+49 5258 9916 – 0'}"
-22,CorTec GmbH,https://cortec-kleiderbuegel.de,"{'email': None, 'phone': None}"
-23,danumed Medizintechnik GmbH,https://www.danumed.com,"{'email': 'info@danumed.com', 'phone': None}"
-24,DeVilbiss Healthcare GmbH,https://www.drivedevilbiss-int.com,"{'email': 'kontakt@devilbisshc.com', 'phone': '+49 (0) 621 178 98- 0'}"
-25,DITABIS AG,https://ditabis.de,"{'email': None, 'phone': None}"
-26,DMB-Apparatebau GmbH,https://www.dmb-apparatebau.de,"{'email': None, 'phone': None}"
-27,Dornier MedTech Laser GmbH,https://www.dornier.com,"{'email': None, 'phone': None}"
-28,Dornier MedTech Systems GmbH,https://www.dornier.com,"{'email': None, 'phone': None}"
-29,Dr. K. Hönle Medizintechnik GmbH,https://www.drhoenle.de,"{'email': 'medizin@drhoenle.de', 'phone': None}"
-30,Dr. Mach GmbH + Co.,https://dr-mach.de,"{'email': None, 'phone': None}"
-31,Dräger Safety AG & Co. KGaA,https://www.draeger.com,"{'email': None, 'phone': None}"
-32,Erka Kallmeyer Medizintechnik GmbH & Co.KG,https://www.erka.org,"{'email': None, 'phone': None}"
-33,EsCo Orthopädie Service GmbH,https://esco-orthopaedie.com,"{'email': 'info@esco-orthopaedie.com', 'phone': None}"
-34,ESSILOR GmbH,https://www.essilor.de,"{'email': 'info@essilor.de', 'phone': None}"
-35,F. & M. Lautenschläger GmbH & Co. KG,https://de-de.facebook.com,"{'email': None, 'phone': None}"
-36,Fasciotens GmbH,https://www.fasciotens.de,"{'email': 'info@fasciotens.de', 'phone': '+49 201 99 999 630'}"
-37,FISBA AG,https://www.fisba.com,"{'email': None, 'phone': None}"
-38,Fisher & Paykel Healthcare GmbH & Co. KG,https://www.fishersci.ch,"{'email': None, 'phone': None}"
-39,FMB Care GmbH,https://fmb-care.de,"{'email': None, 'phone': None}"
-40,Fritz Stephan GmbH Medizintechnik,https://www.stephan-gmbh.com,"{'email': 'info@stephan-gmbh.com', 'phone': None}"
-41,Gebr. Brasseler GmbH & Co. KG,https://www.brasseler.de,"{'email': None, 'phone': None}"
-42,Gebrüder Martin GmbH & Co. KG,https://www.klsmartin.com,"{'email': 'info@klsmartin.com', 'phone': None}"
-43,GETEMED Medizin- und Informationstechnik AG ,https://www.getemed.de,"{'email': None, 'phone': None}"
-44,GIMMI GmbH,https://www.gimmi.de,"{'email': 'contact@gimmi.de', 'phone': None}"
-45,Greiner GmbH Stahlmöbel,https://www.greiner-gmbh.de,"{'email': 'info@greiner-gmbh.de', 'phone': None}"
-46,Gremse-IT GmbH,https://gremse-it.com,"{'email': None, 'phone': None}"
-47,GTI medicare,https://www.gti-medicare.de,"{'email': 'info@gti-medicare.de', 'phone': None}"
-48,Haag-Streit Surgical GmbH & Co. KG,https://www.haag-streit.com,"{'email': None, 'phone': None}"
-49,HÄLSA Pharma GmbH,https://www.haelsa.de,"{'email': 'info@haelsa.com?subject=Kontaktformular%20-%20www.haelsa.com', 'phone': None}"
-50,Handicare GmbH,https://handicare-treppenlifte.ch,"{'email': 'info@handicare.de', 'phone': '+49 (0)571 97 33 98 0'}"
-51,Hans Müller HMP Medizintechnik GmbH,https://www.hmp-medizintechnik.de,"{'email': 'info@hmp-medizintechnik.de', 'phone': None}"
-52,Heidelberg Engineering GmbH,https://www.heidelbergengineering.com,"{'email': None, 'phone': None}"
-53,Hemovent GmbH,https://www.hemovent.com,"{'email': None, 'phone': None}"
-54,Henke-Sass Wolf GmbH,https://www.henkesasswolf.de,"{'email': None, 'phone': '+49 7462 9466-0'}"
-55,Hermann Bock GmbH,https://www.bock.net,"{'email': None, 'phone': '+49 (0)5246 9205-0'}"
-56,HEYER Medical AG,https://heyermedical.de,"{'email': 'info@heyermedical.de', 'phone': None}"
-57,Hill-Rom GmbH,https://www.hillrom.de,"{'email': None, 'phone': None}"
-58,Hittech Prontor GmbH,https://hittech.com,"{'email': None, 'phone': None}"
-59,Hoffrichter Medizintechnik GmbH,https://www.spectaris.de,"{'email': 'info@spectaris.de', 'phone': '+49 (0) 30 41 40 21-12'}"
-60,HP Labortechnik GmbH,https://www.hp-lab.com,"{'email': 'info@hp-lab.com', 'phone': '+49 (0) 89 30 666 47 – 50'}"
-61,"Hu-Friedy Mfg. Co., LLC.",https://www.hufriedygroup.com,"{'email': 'care@hu-friedy.com', 'phone': '1.800.483.7433'}"
-62,Insulet Germany GmbH,https://www.omnipod.com,"{'email': None, 'phone': None}"
-63,interco GmbH,https://interco.gmbh,"{'email': 'info@interco-reha.de', 'phone': None}"
-64,INTERSPIRO GmbH,https://interspiro.de,"{'email': 'info@interspiro.com', 'phone': None}"
-65,Intersurgical Beatmungsprodukte GmbH,https://de.intersurgical.com,"{'email': None, 'phone': None}"
-66,INVACARE Deutschland GmbH,https://www.invacare.de,"{'email': 'kontakt@invacare.com', 'phone': None}"
-67,Invacare GmbH,https://www.invacare.ch,"{'email': 'switzerland@invacare.com', 'phone': None}"
-68,IOLution GmbH,https://www.iolution.com,"{'email': None, 'phone': None}"
-69,Jabil Optics Germany GmbH,https://www.jabil.com,"{'email': None, 'phone': None}"
-70,JENOPTIK AG,https://www.jenoptik.com,"{'email': None, 'phone': None}"
-71,Jüke Systemtechnik GmbH,https://www.jueke.de,"{'email': 'info@jueke.de', 'phone': None}"
-72,Karl Leibinger Medizintechnik GmbH & Co.KG,https://www.klsmartin.com,"{'email': 'info@klsmartin.com', 'phone': None}"
-73,KARL STORZ SE & Co.KG,https://www.karlstorz.com,"{'email': None, 'phone': None}"
-74,Kendrion Kuhnke Automation GmbH,https://www.kendrion.com,"{'email': '?subject=No%20subject&body=https%3A%2F%2Fwww.kendrion.com%2Fen%2F404', 'phone': None}"
-75,Kögel GmbH,https://www.mk-koegel.de,"{'email': 'info@mk-koegel.de', 'phone': '+ 49 (0) 7045 982-0'}"
-76,Königsee Implantate GmbH,https://www.koenigsee-implantate.de,"{'email': 'info@koenigsee-implantate.de', 'phone': None}"
-77,Kröber Medizintechnik GmbH,https://kroeber.de,"{'email': 'info@kroeber.de', 'phone': '++49 2607 94040'}"
-78,"Landesinnung Chirurgiemechanik Baden Würtemberg, Sitz Tuttlingen",https://medicalmountains.de,"{'email': 'glienke@medicalmountains.de', 'phone': '+49 7461 969721-0'}"
-79,LASERVISION GmbH & Co. KG,https://www.uvex-laservision.de,"{'email': 'info@lvg.com', 'phone': None}"
-80,Löwenstein Medical GmbH & Co. KG,https://loewensteinmedical.ch,"{'email': 'info@loewensteinmedical.ch', 'phone': '056 416 41 11'}"
-81,Löwenstein Medical Technology GmbH+Co.KG,https://loewensteinmedical.ch,"{'email': 'info@loewensteinmedical.ch', 'phone': '056 416 41 11'}"
-82,m2 Handels- und Vertriebs GmbH Mühle-Müller Pflegebetten,https://www.muehle-mueller.de,"{'email': 'info@muehle-mueller.de', 'phone': 'Gerne beraten wir Sie unter +49 (0) 6471 - 51 65 00'}"
-83,magForce NT,http://www.magforce.de,"{'email': None, 'phone': None}"
-84,MAICO Diagnostics GmbH,https://www.maico-diagnostics.com,"{'email': None, 'phone': None}"
-85,Matachana Germany GmbH,https://www.matachana.com,"{'email': None, 'phone': None}"
-86,MEDICARE Medizinische Geräte GmbH,https://www.medicare-cpap.de,"{'email': 'info@medicare-cpap.de', 'phone': None}"
-87,Medicon eG Chirurgiemechaniker-Genossenschaft,https://medicon.de,"{'email': 'info@medicon.de', 'phone': None}"
-88,MELAG oHG Medizintechnik,https://www.melag.com,"{'email': 'info@melag.de', 'phone': None}"
-89,Memmert GmbH + Co.KG,https://www.memmert.com,"{'email': 'sales@memmert.com', 'phone': None}"
-90,Messer Group GmbH,https://www.messergroup.com,"{'email': None, 'phone': None}"
-91,Meyer-Haake GmbH,https://www.meyer-haake.com,"{'email': 'sales@meyer-haake.com', 'phone': '+49 (0) 6002 / 99270-0'}"
-92,Miele & Cie. KG,https://www.miele.ch,"{'email': 'info@miele.ch?subject=Impressum', 'phone': '0848 – 848 048'}"
-93,MMM Münchener Medizin Mechanik GmbH,https://www.mmmgroup.com,"{'email': None, 'phone': None}"
-94,MPV MEDICAL GmbH,https://www.mpvmedical.com,"{'email': 'info@mpvmedical.com', 'phone': None}"
-95,munevo GmbH,https://munevo.com,"{'email': None, 'phone': None}"
-96,Newsenselab GmbH,https://m-sense.de,"{'email': None, 'phone': None}"
-97,nova motum® Services & Consulting GmbH,https://www.novamotum.net,"{'email': 'info@novamotum.net', 'phone': None}"
-98,nova:med GmbH & Co. KG,https://novamed.de,"{'email': None, 'phone': None}"
-99,OBERON GmbH Fiber Technologies,https://www.oberonfiber.com,"{'email': None, 'phone': None}"
-100,Oculus Optikgeräte GmbH,https://www.oculus.de,"{'email': None, 'phone': '+49 641 2005-0'}"
-101,Ofa Bamberg GmbH,https://www.ofa.de,"{'email': '?subject=Impressum | Ofa Bamberg&body=Hallo, schau dir mal folgenden Link an:https://www.ofa.de/de-de/impressum/', 'phone': None}"
-102,OLYMPUS Deutschland GmbH,https://www.olympus.de,"{'email': None, 'phone': None}"
-103,OLYMPUS SURGICAL TECHNOLOGIES EUROPE | Olympus Winter & Ibe GmbH,https://www.olympus-oste.eu,"{'email': None, 'phone': None}"
-104,OPTOMECH GmbH,https://www.optomech.de,"{'email': 'info@optomech.de', 'phone': None}"
-105,Ottobock SE & Co. KGaA,https://www.ottobock.com,"{'email': None, 'phone': None}"
-106,PARI GMBH,https://www.pari.com,"{'email': None, 'phone': None}"
-107,PENTAX Europe GmbH,https://www.pentaxmedical.com,"{'email': None, 'phone': None}"
-108,phenox GmbH,https://phenox.net,"{'email': None, 'phone': None}"
-109,Philips GmbH Respironics,http://www.respironics.com,"{'email': None, 'phone': None}"
-110,Qioptiq Photonics GmbH & Co.KG,https://www.qioptiq-shop.com,"{'email': 'sales.qioptiq@excelitas.com', 'phone': None}"
-111,Qioptiq Photonics GmbH & Co.KG,https://www.qioptiq-shop.com,"{'email': 'sales.qioptiq@excelitas.com', 'phone': None}"
-112,RADIMED Gesellschaft für Kommunikationsdienstleistungen und Medizintechnik mbH,https://radimed.de,"{'email': None, 'phone': None}"
-113,RAPA Healthcare GmbH & Co. KG ,https://www.rapa.com,"{'email': 'info@rapa.com', 'phone': None}"
-114,RAYLYTIC GmbH,https://www.raylytic.com,"{'email': None, 'phone': None}"
-115,ResMed Deutschland GmbH,https://www.resmed.de,"{'email': None, 'phone': None}"
-116,ResMed GmbH & Co.KG,https://www.resmed.ch,"{'email': None, 'phone': None}"
-117,Richard Wolf GmbH,https://www.richard-wolf.com,"{'email': 'webadmin@richard-wolf.com', 'phone': '+49 7043 35-0'}"
-118,Rudolf Riester GmbH & Co.KG,https://riester.de,"{'email': None, 'phone': None}"
-119,S.I.E – System Industrie Electronic GmbH,https://www.sie.at,"{'email': 'info@sie.at', 'phone': '+43 55 7789 900'}"
-120,S1 Optics GmbH,https://www.s1optics.de,"{'email': 'info@s1optics.com', 'phone': None}"
-121,SALVIA medical GmbH & Co. KG,https://www.spectaris.de,"{'email': 'info@spectaris.de', 'phone': '+49 (0) 30 41 40 21-12'}"
-122,Sapio Life GmbH & Co. KG,https://www.sapiolife.de,"{'email': None, 'phone': None}"
-123,Sartorius Lab Instruments GmbH & Co. KG,https://www.sartorius.com,"{'email': None, 'phone': None}"
-124,Schmidt + Haensch GmbH & Co.,https://schmidt-haensch.com,"{'email': 'sales@schmidt-haensch.de', 'phone': None}"
-125,SCHMITZ u. Söhne GmbH & Co. KG,https://schmitz-soehne.com,"{'email': None, 'phone': '+49 (0)2377 84 0'}"
-126,SCHWIND eye-tech-solutions GmbH,https://www.eye-tech-solutions.com,"{'email': None, 'phone': None}"
-127,seca GmbH & Co.KG,https://www.seca.com,"{'email': None, 'phone': None}"
-128,Semeda GmbH,https://www.semeda.de,"{'email': None, 'phone': None}"
-129,SomnoMed® Germany GmbH ,https://somnomed.com,"{'email': 'infousa@somnomed.com', 'phone': None}"
-130,Sonovum AG,https://www.sonovum.de,"{'email': 'info@sonovum.de', 'phone': '+49 341 39299510'}"
-131,Söring GmbH,https://www.soering.de,"{'email': None, 'phone': None}"
-132,Stiegelmeyer GmbH & Co. KG,https://www.stiegelmeyer.com,"{'email': None, 'phone': None}"
-133,Sutter Medizintechnik GmbH,https://www.sutter-med.de,"{'email': None, 'phone': None}"
-134,Swiss Optic AG,https://www.swissoptic.ag,"{'email': None, 'phone': None}"
-135,Temena GmbH,https://temena.com,"{'email': 'temena@temena.com', 'phone': None}"
-136,Topcon Europe Medical B.V.,https://topconhealthcare.eu,"{'email': None, 'phone': None}"
-137,UniTransferKlinik Lübeck,https://www.unitransferklinik.de,"{'email': None, 'phone': None}"
-138,VISIONIX DEUTSCHLAND GMBH,https://www.visionix.com,"{'email': None, 'phone': '+33 2 32 98 91 32'}"
-139,VISTEC AG Vision Technologies,https://vistec-support.de,"{'email': None, 'phone': None}"
-140,VitalAire GmbH Niederlassung Bremen,https://www.spectaris.de,"{'email': 'info@spectaris.de', 'phone': '+49 (0) 30 41 40 21-12'}"
-141,Vivisol Deutschland GmbH,https://www.vivisol.de,"{'email': None, 'phone': None}"
-142,Walter H. Becker GmbH Metallwarenfabrik,https://www.becker-triftern.de,"{'email': 'info@becker-triftern.de', 'phone': None}"
-143,WEINMANN Emergency Medical Technology GmbH + Co. KG,https://www.weinmann-emergency.com,"{'email': 'website@weinmann-emt.de', 'phone': None}"
-144,WILAmed GmbH,http://www.wilamed.de,"{'email': 'info@wilamed.com', 'phone': None}"
-145,WILD Gruppe,https://www.wild.at,"{'email': 'sales@wild.at', 'phone': '+43 4232 2527 0'}"
-146,Xenios AG,https://www.xenios-ag.com,"{'email': None, 'phone': None}"
+0,Abbott GmbH,https://www.de.abbott,info.de@abbott.com
+1,AESCULAP AG,http://www.aesculap.de,
+2,Aesculap Akademie GmbH,https://www.aesculap-akademie.de,
+3,air-be-c Medizintechnik GmbH,https://www.air-be-c.de,info@air-be-c.de
+4,ASANUS Medizintechnik GmbH,https://asanus.de,
+5,ASML Berlin GmbH (ehemals Berliner Glas GmbH),https://www.asml.com,
+6,ATMOS MedizinTechnik GmbH & Co.KG,https://atmosmed.com,info@atmosmed.de
+7,aXcent medical GmbH,https://www.axcentmedical.com,info@axcentmedical.com
+8,B.Braun Avitum Saxonia GmbH,https://www.bbraun.ch,
+9,B.Braun Miethke GmbH & Co. KG,https://www.bbraun-miethke.com,
+10,Bauer und Häselbarth-Chirurg GmbH,https://www.bh-chirurg.de,info@bh-chirurg.de
+11,Bayoomed GmbH,https://www.bayoomed.com,miriam.schulze@bayoo.net
+12,Belimed GmbH,https://www.belimed.com,info@belimed.com
+13,Belimed GmbH,https://www.belimed.com,info@belimed.com
+14,bon Optic Vertriebsgesellschaft mbH,https://www.bon.de,call@bon.de
+15,Bosch + Sohn GmbH u. Co. KG Fabrik medizinischer Apparate,https://www.boso.de,
+16,Breas Medical GmbH,https://www.breas.com,
+17,Carl Zeiss AG,https://www.zeiss.ch,do-not-reply@zeiss.com
+18,Carl Zeiss Jena GmbH,https://www.zeiss.ch,do-not-reply@zeiss.com
+19,Carl Zeiss Meditec AG,https://www.zeiss.ch,do-not-reply@zeiss.com
+20,Christoph Miethke GmbH & Co. KG,https://www.miethke.com,
+21,Condor GmbH Medicaltechnik,https://condor-medtec.de,info@condor-medtec.de
+22,CorTec GmbH,https://cortec-kleiderbuegel.de,
+23,danumed Medizintechnik GmbH,https://www.danumed.com,info@danumed.com
+24,DeVilbiss Healthcare GmbH,https://www.drivedevilbiss-int.com,kontakt@devilbisshc.com
+25,DITABIS AG,https://ditabis.de,
+26,DMB-Apparatebau GmbH,https://www.dmb-apparatebau.de,
+27,Dornier MedTech Laser GmbH,https://www.dornier.com,
+28,Dornier MedTech Systems GmbH,https://www.dornier.com,
+29,Dr. K. Hönle Medizintechnik GmbH,https://www.drhoenle.de,medizin@drhoenle.de
+30,Dr. Mach GmbH + Co.,https://dr-mach.de,
+31,Dräger Safety AG & Co. KGaA,https://www.draeger.com,
+32,Erka Kallmeyer Medizintechnik GmbH & Co.KG,https://www.erka.org,
+33,EsCo Orthopädie Service GmbH,https://esco-orthopaedie.com,info@esco-orthopaedie.com
+34,ESSILOR GmbH,https://www.essilor.de,info@essilor.de
+35,F. & M. Lautenschläger GmbH & Co. KG,https://de-de.facebook.com,
+36,Fasciotens GmbH,https://www.fasciotens.de,info@fasciotens.de
+37,FISBA AG,https://www.fisba.com,
+38,Fisher & Paykel Healthcare GmbH & Co. KG,https://www.fishersci.ch,
+39,FMB Care GmbH,https://fmb-care.de,
+40,Fritz Stephan GmbH Medizintechnik,https://www.stephan-gmbh.com,info@stephan-gmbh.com
+41,Gebr. Brasseler GmbH & Co. KG,https://www.brasseler.de,
+42,Gebrüder Martin GmbH & Co. KG,https://www.klsmartin.com,info@klsmartin.com
+43,GETEMED Medizin- und Informationstechnik AG ,https://www.getemed.de,
+44,GIMMI GmbH,https://www.gimmi.de,contact@gimmi.de
+45,Greiner GmbH Stahlmöbel,https://www.greiner-gmbh.de,info@greiner-gmbh.de
+46,Gremse-IT GmbH,https://gremse-it.com,
+47,GTI medicare,https://www.gti-medicare.de,info@gti-medicare.de
+48,Haag-Streit Surgical GmbH & Co. KG,https://www.haag-streit.com,
+49,HÄLSA Pharma GmbH,https://www.haelsa.de,info@haelsa.com?subject=Kontaktformular%20-%20www.haelsa.com
+50,Handicare GmbH,https://handicare-treppenlifte.ch,info@handicare.de
+51,Hans Müller HMP Medizintechnik GmbH,https://www.hmp-medizintechnik.de,info@hmp-medizintechnik.de
+52,Heidelberg Engineering GmbH,https://www.heidelbergengineering.com,
+53,Hemovent GmbH,https://www.hemovent.com,
+54,Henke-Sass Wolf GmbH,https://www.henkesasswolf.de,
+55,Hermann Bock GmbH,https://www.bock.net,
+56,HEYER Medical AG,https://heyermedical.de,info@heyermedical.de
+57,Hill-Rom GmbH,https://www.hillrom.de,
+58,Hittech Prontor GmbH,https://hittech.com,
+59,Hoffrichter Medizintechnik GmbH,https://www.spectaris.de,info@spectaris.de
+60,HP Labortechnik GmbH,https://www.hp-lab.com,info@hp-lab.com
+61,"Hu-Friedy Mfg. Co., LLC.",https://www.hufriedygroup.com,care@hu-friedy.com
+62,Insulet Germany GmbH,https://www.omnipod.com,
+63,interco GmbH,https://interco.gmbh,info@interco-reha.de
+64,INTERSPIRO GmbH,https://interspiro.de,info@interspiro.com
+65,Intersurgical Beatmungsprodukte GmbH,https://de.intersurgical.com,
+66,INVACARE Deutschland GmbH,https://www.invacare.de,kontakt@invacare.com
+67,Invacare GmbH,https://www.invacare.ch,switzerland@invacare.com
+68,IOLution GmbH,https://www.iolution.com,
+69,Jabil Optics Germany GmbH,https://www.jabil.com,
+70,JENOPTIK AG,https://www.jenoptik.com,
+71,Jüke Systemtechnik GmbH,https://www.jueke.de,info@jueke.de
+72,Karl Leibinger Medizintechnik GmbH & Co.KG,https://www.klsmartin.com,info@klsmartin.com
+73,KARL STORZ SE & Co.KG,https://www.karlstorz.com,
+74,Kendrion Kuhnke Automation GmbH,https://www.kendrion.com,?subject=No%20subject&body=https%3A%2F%2Fwww.kendrion.com%2Fen%2F404
+75,Kögel GmbH,https://www.mk-koegel.de,info@mk-koegel.de
+76,Königsee Implantate GmbH,https://www.koenigsee-implantate.de,info@koenigsee-implantate.de
+77,Kröber Medizintechnik GmbH,https://kroeber.de,info@kroeber.de
+78,"Landesinnung Chirurgiemechanik Baden Würtemberg, Sitz Tuttlingen",https://medicalmountains.de,glienke@medicalmountains.de
+79,LASERVISION GmbH & Co. KG,https://www.uvex-laservision.de,info@lvg.com
+80,Löwenstein Medical GmbH & Co. KG,https://loewensteinmedical.ch,info@loewensteinmedical.ch
+81,Löwenstein Medical Technology GmbH+Co.KG,https://loewensteinmedical.ch,info@loewensteinmedical.ch
+82,m2 Handels- und Vertriebs GmbH Mühle-Müller Pflegebetten,https://www.muehle-mueller.de,info@muehle-mueller.de
+83,magForce NT,https://magforce.de,
+84,MAICO Diagnostics GmbH,https://www.maico-diagnostics.com,
+85,Matachana Germany GmbH,https://www.matachana.com,
+86,MEDICARE Medizinische Geräte GmbH,https://www.medicare-cpap.de,info@medicare-cpap.de
+87,Medicon eG Chirurgiemechaniker-Genossenschaft,https://medicon.de,info@medicon.de
+88,MELAG oHG Medizintechnik,https://www.melag.com,info@melag.de
+89,Memmert GmbH + Co.KG,https://www.memmert.com,sales@memmert.com
+90,Messer Group GmbH,https://www.messergroup.com,
+91,Meyer-Haake GmbH,https://www.meyer-haake.com,sales@meyer-haake.com
+92,Miele & Cie. KG,https://www.miele.ch,info@miele.ch?subject=Impressum
+93,MMM Münchener Medizin Mechanik GmbH,https://www.mmmgroup.com,
+94,MPV MEDICAL GmbH,https://www.mpvmedical.com,info@mpvmedical.com
+95,munevo GmbH,https://munevo.com,
+96,Newsenselab GmbH,https://m-sense.de,
+97,nova motum® Services & Consulting GmbH,https://www.novamotum.net,info@novamotum.net
+98,nova:med GmbH & Co. KG,https://novamed.de,
+99,OBERON GmbH Fiber Technologies,https://www.oberonfiber.com,
+100,Oculus Optikgeräte GmbH,https://www.oculus.de,
+101,Ofa Bamberg GmbH,https://www.ofa.de,"?subject=Impressum | Ofa Bamberg&body=Hallo, schau dir mal folgenden Link an:https://www.ofa.de/de-de/impressum/"
+102,OLYMPUS Deutschland GmbH,https://www.olympus.de,
+103,OLYMPUS SURGICAL TECHNOLOGIES EUROPE | Olympus Winter & Ibe GmbH,https://www.olympus-oste.eu,
+104,OPTOMECH GmbH,https://www.optomech.de,info@optomech.de
+105,Ottobock SE & Co. KGaA,https://www.ottobock.com,
+106,PARI GMBH,https://www.pari.com,
+107,PENTAX Europe GmbH,https://www.pentaxmedical.com,
+108,phenox GmbH,https://phenox.net,
+109,Philips GmbH Respironics,http://www.respironics.com,
+110,Qioptiq Photonics GmbH & Co.KG,https://www.qioptiq-shop.com,sales.qioptiq@excelitas.com
+111,Qioptiq Photonics GmbH & Co.KG,https://www.qioptiq-shop.com,sales.qioptiq@excelitas.com
+112,RADIMED Gesellschaft für Kommunikationsdienstleistungen und Medizintechnik mbH,https://radimed.de,
+113,RAPA Healthcare GmbH & Co. KG ,https://www.rapa.com,info@rapa.com
+114,RAYLYTIC GmbH,https://www.raylytic.com,
+115,ResMed Deutschland GmbH,https://www.resmed.de,
+116,ResMed GmbH & Co.KG,https://www.resmed.ch,
+117,Richard Wolf GmbH,https://www.richard-wolf.com,webadmin@richard-wolf.com
+118,Rudolf Riester GmbH & Co.KG,https://riester.de,
+119,S.I.E – System Industrie Electronic GmbH,https://www.sie.at,info@sie.at
+120,S1 Optics GmbH,https://www.s1optics.de,info@s1optics.com
+121,SALVIA medical GmbH & Co. KG,https://www.spectaris.de,info@spectaris.de
+122,Sapio Life GmbH & Co. KG,https://www.sapiolife.de,
+123,Sartorius Lab Instruments GmbH & Co. KG,https://www.sartorius.com,
+124,Schmidt + Haensch GmbH & Co.,https://schmidt-haensch.com,sales@schmidt-haensch.de
+125,SCHMITZ u. Söhne GmbH & Co. KG,https://schmitz-soehne.com,
+126,SCHWIND eye-tech-solutions GmbH,https://www.eye-tech-solutions.com,
+127,seca GmbH & Co.KG,https://www.seca.com,
+128,Semeda GmbH,https://www.semeda.de,
+129,SomnoMed® Germany GmbH ,https://somnomed.com,infousa@somnomed.com
+130,Sonovum AG,https://www.sonovum.de,info@sonovum.de
+131,Söring GmbH,https://www.soering.de,
+132,Stiegelmeyer GmbH & Co. KG,https://www.stiegelmeyer.com,
+133,Sutter Medizintechnik GmbH,https://www.sutter-med.de,
+134,Swiss Optic AG,https://www.swissoptic.ag,
+135,Temena GmbH,https://temena.com,temena@temena.com
+136,Topcon Europe Medical B.V.,https://topconhealthcare.eu,
+137,UniTransferKlinik Lübeck,https://www.unitransferklinik.de,
+138,VISIONIX DEUTSCHLAND GMBH,https://www.visionix.com,
+139,VISTEC AG Vision Technologies,https://vistec-support.de,
+140,VitalAire GmbH Niederlassung Bremen,https://www.spectaris.de,info@spectaris.de
+141,Vivisol Deutschland GmbH,https://www.vivisol.de,
+142,Walter H. Becker GmbH Metallwarenfabrik,https://www.becker-triftern.de,info@becker-triftern.de
+143,WEINMANN Emergency Medical Technology GmbH + Co. KG,https://www.weinmann-emergency.com,website@weinmann-emt.de
+144,WILAmed GmbH,http://www.wilamed.de,info@wilamed.com
+145,WILD Gruppe,https://www.wild.at,sales@wild.at
+146,Xenios AG,https://www.xenios-ag.com,
+147,CompuGroup Medical AG,https://www.cgm.com,
+148,Siemens Healthineers AG,https://www.siemens-healthineers.com,
+149,Agfa HealthCare GmbH,https://global.agfahealthcare.com,
+150,IBM Deutschland GmbH,https://www.ibm.com,
+151,InterComponentWare AG,https://www.digitalhealthportal.de,
+152,Philips Medical Systems DMC GmbH,https://www.philips.ch,
+153,EPIMEDICS GmbH,https://biotechnologie.de,
+154,Cerner Deutschland GmbH,https://www.cerner.com,
+155,Meierhofer AG,https://www.meierhofer.com,
+156,Tiplu GmbH,https://tiplu.de,info@tiplu.de
+157,Nexus AG,https://www.nexus-ag.de,info@nexus-ag.de
+158,x-tention Informationstechnologie GmbH,https://x-tention.com,office@x-tention.at
+159,Dedalus HealthCare GmbH,https://www.dedalus.com,
+160,NOVENTI Health SE,https://www.noventi.de,info@noventi.de
+161,Maintrac GmbH,https://www.maintrac.de,
+162,Meona GmbH,https://www.meona.de,
+163,eHealth Africa GmbH,https://www.ehealthafrica.org,info@ehealthafrica.org
+164,GE Healthcare GmbH,https://www.gehealthcare.de,
+165,m.Doc GmbH,https://mdoc.one,
+166,Medavis GmbH,https://www.medavis.de,info@medavis.com
+167,EIZO GmbH,https://www.eizo.de,info@eizo.de
+168,Alphatron Medical Innovations GmbH,https://alphatroninnovations.com,
+169,Deloitte GmbH Wirtschaftsprüfungsgesellschaft,https://www2.deloitte.com,
+170,R4S – Solutions for Health GmbH,https://r4solutionsinc.com,info@r4solutionsinc.com
+171,IHE Deutschland e. V.,https://de.wikipedia.org,
+172,Arvato Systems S4M GmbH,https://www.arvato-systems.com,?subject=%title&body=%url
+173,Health AG,https://www.healthag.de,info@healthag.de
+174,E-Health-Care Management GmbH,https://www.e-health-suisse.ch,info@e-health-suisse.ch
+175,Haug IT-Solutions GmbH,https://haug-it.solutions,
+176,Siemens Mobility GmbH,https://www.mobility.siemens.com,
+177,ID Information und Dokumentation im Gesundheitswesen GmbH,https://www.id-berlin.de,
+178,Meierhofer Medical Deutschland GmbH,https://www.meierhofer.com,
+179,Mindbreeze GmbH,https://inspire.mindbreeze.com,
+180,AGNITAS AG,https://www.agnitas.de,info@agnitas.ag
+181,cliqz GmbH,https://cliqz.com,
+182,Asklepios Kliniken GmbH & Co. KGaA,https://www.asklepios.com,
+183,Helios Kliniken GmbH,https://www.helios-gesundheit.de,

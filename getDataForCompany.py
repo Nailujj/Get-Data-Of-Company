@@ -20,7 +20,7 @@ def get_company_website(company_name):
     return website.split(">")[1].split("<")[0]
 
 
-def find_contact_info(website):
+def get_phone_and_mail(website):
     """
     Finds contact information on a website.
     Returns a dictionary with the following keys:
@@ -113,6 +113,64 @@ def find_contact_info(website):
             "email": email,
             "phone": phone,
         }
+
+    except requests.exceptions.Timeout:
+        pass
+
+
+
+def get_only_mail(website):
+    """
+    Finds contact information on a website.
+    Returns a dictionary with the following keys:
+        - email: the email address listed on the website
+        - phone: the phone number listed on the website
+    If any information cannot be found, the corresponding value in the dictionary is None.
+    """
+    url = website
+    url += '/impressum'
+
+    try:
+
+        response = requests.get(url, timeout=5, verify=False)
+        html = response.text
+        soup = BeautifulSoup(html, "html.parser")
+
+        # Find the email address
+        email = None
+        email_tags = soup.select("a[href^='mailto:']")
+        if email_tags:
+            email = email_tags[0]["href"][7:]
+        
+        print(email)
+        
+        # Return a dictionary with the contact information
+        return  email
+    
+
+    except requests.exceptions.Timeout:
+        pass
+
+
+    url2 = website
+    url2 += "/Kontakt"
+
+    try:
+
+        response = requests.get(url2, timeout=5, verify=False)
+        html = response.text
+        soup = BeautifulSoup(html, "html.parser")
+
+        # Find the email address
+        email = None
+        email_tags = soup.select("a[href^='mailto:']")
+        if email_tags:
+            email = email_tags[0]["href"][7:]
+        
+        print(email)
+
+        # Return a dictionary with the contact information
+        return email
 
     except requests.exceptions.Timeout:
         pass
