@@ -2,4 +2,4 @@ The script accesses the https://www.spectaris.de/medizintechnik/mitglieder/ page
 I later asked chatGPT to name me german medical informatic companeis and saved them in list.csv. I applied the same logic to it as i did to the results from the website
 
 
-Run Main() to start the script
+Run main.py to start the script
