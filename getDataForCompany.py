@@ -120,13 +120,7 @@ def get_phone_and_mail(website):
 
 
 def get_only_mail(website):
-    """
-    Finds contact information on a website.
-    Returns a dictionary with the following keys:
-        - email: the email address listed on the website
-        - phone: the phone number listed on the website
-    If any information cannot be found, the corresponding value in the dictionary is None.
-    """
+    # Works like the get_phone_and_mail() function but without phone number
     url = website
     url += '/impressum'
 
